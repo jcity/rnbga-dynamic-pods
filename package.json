@@ -1,0 +1,13 @@
+{
+  "name": "pods-hello-react-native",
+  "version": "1.0.0",
+  "description": "react native test project using cocapods",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Myers",
+  "license": "ISC",
+  "devDependencies": {
+    "react-native-cli": "^2.0.1"
+  }
+}
